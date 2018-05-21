@@ -17,4 +17,4 @@ def current_player(board)
   end
 end
 
-turn_count()
+turn_count(["O", " ", " ", " ", "X", " ", " ", " ", " "])
